@@ -10,6 +10,8 @@
   "license": "GPL-3.0-or-later",
   "dependencies": {},
   "devDependencies": {
+    "chai": "^4.2.0",
+    "fecha": "git+https://github.com/taylorhakes/fecha.git",
     "npm-test-project": "git+https://gitlab.com/Ellyah/npm-test-project.git"
   },
   "files": [
