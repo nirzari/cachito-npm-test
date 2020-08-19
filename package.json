@@ -11,7 +11,8 @@
   "dependencies": {},
   "devDependencies": {
     "chai": "^4.2.0",
-    "mocha": "mochajs/mocha#master"
+    "mocha": "git+https://github.com/mochajs/mocha.git",
+    "npm-test-project": "git+https://gitlab.com/Ellyah/npm-test-project.git"
   },
   "files": [
     "index.js"
