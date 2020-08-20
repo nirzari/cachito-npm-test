@@ -12,7 +12,8 @@
   "devDependencies": {
     "chai": "^4.2.0",
     "fecha": "git+https://github.com/taylorhakes/fecha.git",
-    "npm-test-project": "git+https://gitlab.com/eakhmano-test-group/eakhmano-test-subgroup/subsubgroup/npm-test-project.git"
+    "npm-test-project": "git+https://gitlab.com/eakhmano-test-group/eakhmano-test-subgroup/subsubgroup/npm-test-project.git",
+    "subpackage": "file:./subpackage"
   },
   "files": [
     "index.js"
