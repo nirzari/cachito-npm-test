@@ -8,13 +8,13 @@
   },
   "author": "Elina Akhmanova <eakhmano@redhat.com>",
   "license": "GPL-3.0-or-later",
-  "dependencies": {},
-  "devDependencies": {
+  "dependencies": {
     "chai": "^4.2.0",
     "fecha": "git+https://github.com/taylorhakes/fecha.git",
     "npm-test-project": "git+https://gitlab.com/eakhmano-test-group/eakhmano-test-subgroup/subsubgroup/npm-test-project.git",
     "subpackage": "file:./subpackage"
   },
+  "devDependencies": {},
   "files": [
     "index.js"
   ],
