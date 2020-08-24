@@ -12,7 +12,8 @@
     "chai": "^4.2.0",
     "fecha": "git+https://github.com/taylorhakes/fecha.git",
     "npm-test-project": "git+https://gitlab.com/eakhmano-test-group/eakhmano-test-subgroup/subsubgroup/npm-test-project.git",
-    "subpackage": "file:./subpackage"
+    "subpackage": "file:./subpackage",
+    "test-npm-dep": "https://elinah@bitbucket.org/elinah/test-npm-dep.git"
   },
   "devDependencies": {},
   "files": [
